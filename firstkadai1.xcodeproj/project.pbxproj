@@ -13,6 +13,7 @@
 		E8ED1324248478CE0058C84A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8ED1322248478CE0058C84A /* Main.storyboard */; };
 		E8ED1326248478CF0058C84A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8ED1325248478CF0058C84A /* Assets.xcassets */; };
 		E8ED1329248478CF0058C84A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8ED1327248478CF0058C84A /* LaunchScreen.storyboard */; };
+		E8ED133124847DDA0058C84A /* firstkadai1 in Resources */ = {isa = PBXBuildFile; fileRef = E8ED133024847DDA0058C84A /* firstkadai1 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E8ED1325248478CF0058C84A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E8ED1328248478CF0058C84A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E8ED132A248478CF0058C84A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E8ED133024847DDA0058C84A /* firstkadai1 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = firstkadai1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				E8ED131E248478CE0058C84A /* SceneDelegate.swift */,
 				E8ED1320248478CE0058C84A /* ViewController.swift */,
 				E8ED1322248478CE0058C84A /* Main.storyboard */,
+				E8ED133024847DDA0058C84A /* firstkadai1 */,
 				E8ED1325248478CF0058C84A /* Assets.xcassets */,
 				E8ED1327248478CF0058C84A /* LaunchScreen.storyboard */,
 				E8ED132A248478CF0058C84A /* Info.plist */,
@@ -127,6 +130,7 @@
 			files = (
 				E8ED1329248478CF0058C84A /* LaunchScreen.storyboard in Resources */,
 				E8ED1326248478CF0058C84A /* Assets.xcassets in Resources */,
+				E8ED133124847DDA0058C84A /* firstkadai1 in Resources */,
 				E8ED1324248478CE0058C84A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
